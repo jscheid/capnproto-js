@@ -1,0 +1,11 @@
+((nil . ((indent-tabs-mode . nil)
+         (css-indent-offset . 2)
+         (js-indent-level . 2)
+         (c-basic-offset . 2)
+         (fill-column . 80))))
+
+;; (defun my-indent-setup ()
+;;   (c-set-offset 'innamespace [0])
+;;   (c-set-offset 'statement-cont 0)
+;;   (c-set-offset 'case-label '+)
+;;   (c-set-offset 'arglist-intro '++))
