@@ -7,7 +7,8 @@ JavaScript. Includes a schema compiler that generates JavaScript.
 Status
 ------
 
-This is work in progress.  It is currently based on an [outdated
+This is work in progress, and <https://github.com/capnp-js> is more actively
+maintained.  It is currently based on an [outdated 
 version](https://github.com/kentonv/capnproto/commit/798ff87b1b7e0a2da96355a34fa6e0aa10aaae85)
 of Cap'n Proto, which means it doesn't include the recent object capability and
 RPC additions or any recent bugfixes.  Also, dynamic access (at runtime, based
